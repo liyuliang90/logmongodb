@@ -1,0 +1,12 @@
+2016-07-02 23:01:00,822 test2.py[line:8] <module> DEBUG hello:1
+2016-07-02 23:01:01,823 test2.py[line:8] <module> DEBUG hello:2
+2016-07-02 23:01:02,824 test2.py[line:8] <module> DEBUG hello:3
+2016-07-02 23:01:03,825 test2.py[line:8] <module> DEBUG hello:4
+2016-07-02 23:01:04,827 test2.py[line:8] <module> DEBUG hello:5
+2016-07-02 23:01:05,828 test2.py[line:8] <module> DEBUG hello:6
+2016-07-02 23:01:06,829 test2.py[line:8] <module> DEBUG hello:7
+2016-07-02 23:01:07,830 test2.py[line:8] <module> DEBUG hello:8
+2016-07-02 23:01:08,832 test2.py[line:8] <module> DEBUG hello:9
+2016-07-02 23:01:09,833 test2.py[line:8] <module> DEBUG hello:10
+2016-07-02 23:01:10,834 test2.py[line:8] <module> DEBUG hello:11
+2016-07-02 23:01:11,834 test2.py[line:8] <module> DEBUG hello:12
